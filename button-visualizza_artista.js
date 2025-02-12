@@ -35,7 +35,7 @@ function on_mouse_lbtn_up(x, y) {
     }
 }
 
-
+//Seleziona il font del pulsante
 var g_font = JSON.stringify({
 	Name : "Segoe UI",
 	Size : 20,
